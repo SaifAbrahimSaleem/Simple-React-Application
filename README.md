@@ -1,6 +1,7 @@
-# Simple-React-Application
-##Udemy React Tutorial - Monsters Rolodex
 =======
+# Simple-React-Application
+Udemy React Tutorial - Monsters Rolodex
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
